@@ -1,109 +1,97 @@
 [
-    {
-      "name": "Aia Makhruka",
-    
-      "linkedinUrl": "https://www.linkedin.com/in/aia-makhruka-608b86250/"
-    },
-    {
-      "name": "Ajay Singh",
-     
-      "linkedinUrl": "https://www.linkedin.com/in/singhajay/"
-    },
-    {
-        "name": "Ala Abdulsalam Ali Al-Ebi ",
-        "linkedinUrl": "https://www.linkedin.com/in/aia-makhruka-608b86250/"
-      },
-      {
-        "name": "Arthur Campos",
+  {
+    "name": "Aia Makhruka",
 
-        "linkedinUrl": "https://www.linkedin.com/in/afcampos/"
-      },
-      {
-        "name": "David Gluzman ",
-   
-        "linkedinUrl": "https://www.linkedin.com/in/david-gluzman-b16811201/"
-      },
-      {
-        "name": "Estefania Cordova",
- 
-        "linkedinUrl": "https://www.linkedin.com/in/estefania-cordova-ba7b34144/"
-      },
-      {
-        "name": "David Gluzman ",
+    "linkedinUrl": "https://www.linkedin.com/in/aia-makhruka-608b86250/"
+  },
+  {
+    "name": "Ajay Singh",
 
-        "linkedinUrl": "https://www.linkedin.com/in/david-gluzman-b16811201/"
-      },
-      {
-        "name": "Farshid Gharagozloo",
-     
-        "linkedinUrl": "https://www.linkedin.com/in/farshid-gharagozloo-047776220/"
-      },
-      {
-        "name": "David Gluzman ",
-        
-        "linkedinUrl": "https://www.linkedin.com/in/david-gluzman-b16811201/"
-      },
-      {
-        "name": "Gajeev Mariathasan",
+    "linkedinUrl": "https://www.linkedin.com/in/singhajay/"
+  },
+  {
+    "name": "Ala Abdulsalam ",
+    "linkedinUrl": "https://www.linkedin.com/in/aia-makhruka-608b86250/"
+  },
+  {
+    "name": "Arthur Campos",
 
-        "linkedinUrl": "https://www.linkedin.com/in/gajeev/"
-      },
-      {
-        "name": "Jeff Hamill",
+    "linkedinUrl": "https://www.linkedin.com/in/afcampos/"
+  },
+  {
+    "name": "Estefania Cordova",
 
-        "linkedinUrl": "https://www.linkedin.com/in/jeff-hamill-185437/"
-      },
-      {
-        "name": "Jesse Uszkay",
-   
-        "linkedinUrl": "https://www.linkedin.com/in/juszkay/"
-      },
-      {
-        "name": "Jonathan Mak ",
-   
-        "linkedinUrl": "https://www.linkedin.com/in/jonathan-mak-9a93a3209/?originalSubdomain=ca"
-      },
-      {
-        "name": "Neha Dhaka",
-    
-        "linkedinUrl": "https://www.linkedin.com/in/neha-dhaka/"
-      },
-      {
-        "name": "Saba Siddiqui",
+    "linkedinUrl": "https://www.linkedin.com/in/estefania-cordova-ba7b34144/"
+  },
+  {
+    "name": "David Gluzman ",
 
-        "linkedinUrl": "https://www.linkedin.com/in/saba-siddiqui-3879b1270/"
-      },
-      {
-        "name": "Jingwei Zhao",
+    "linkedinUrl": "https://www.linkedin.com/in/david-gluzman-b16811201/"
+  },
+  {
+    "name": "Farshid Gharagozloo",
 
-        "linkedinUrl": ""
-      },
-      {
-        "name": "Santiago Moncada ",
-       
-        "linkedinUrl": "https://www.linkedin.com/in/smrmoncada/"
-      },
-      {
-        "name": "Shaymaa Abdou",
+    "linkedinUrl": "https://www.linkedin.com/in/farshid-gharagozloo-047776220/"
+  },
 
-        "linkedinUrl": "https://www.linkedin.com/404/"
-      },
-      {
-        "name": "Theo Firtandi",
+  {
+    "name": "Gajeev Mariathasan",
 
-        "linkedinUrl": "https://www.linkedin.com/in/theojosiahfirtandi/"
-      },
-      {
-        "name": "Timothy Ly",
+    "linkedinUrl": "https://www.linkedin.com/in/gajeev/"
+  },
+  {
+    "name": "Jeff Hamill",
 
-        "linkedinUrl": "https://www.linkedin.com/in/timothy-l-30924588/"
-      },
-      {
-        "name": "Tina Thakur",
+    "linkedinUrl": "https://www.linkedin.com/in/jeff-hamill-185437/"
+  },
+  {
+    "name": "Jesse Uszkay",
 
-        "linkedinUrl": "https://www.linkedin.com/in/tina-thakur/"
-      }
-  
-  
-  ]
-  
+    "linkedinUrl": "https://www.linkedin.com/in/juszkay/"
+  },
+  {
+    "name": "Jonathan Mak ",
+
+    "linkedinUrl": "https://www.linkedin.com/in/jonathan-mak-9a93a3209/?originalSubdomain=ca"
+  },
+  {
+    "name": "Neha Dhaka",
+
+    "linkedinUrl": "https://www.linkedin.com/in/neha-dhaka/"
+  },
+  {
+    "name": "Saba Siddiqui",
+
+    "linkedinUrl": "https://www.linkedin.com/in/saba-siddiqui-3879b1270/"
+  },
+  {
+    "name": "Jingwei Zhao",
+
+    "linkedinUrl": ""
+  },
+  {
+    "name": "Santiago Moncada ",
+
+    "linkedinUrl": "https://www.linkedin.com/in/smrmoncada/"
+  },
+  {
+    "name": "Shaymaa Abdou",
+
+    "linkedinUrl": "https://www.linkedin.com/404/"
+  },
+  {
+    "name": "Theo Firtandi",
+
+    "linkedinUrl": "https://www.linkedin.com/in/theojosiahfirtandi/"
+  },
+  {
+    "name": "Timothy Ly",
+
+    "linkedinUrl": "https://www.linkedin.com/in/timothy-l-30924588/"
+  },
+  {
+    "name": "Tina Thakur",
+
+    "linkedinUrl": "https://www.linkedin.com/in/tina-thakur/"
+  }
+]

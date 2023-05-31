@@ -9,6 +9,8 @@ router.get("/peers", (req,res) =>{
     res.json(JSON.parse(data))
 })
 
-router.post("/peers",(req,res))
+router.post("/peers",(req,res) =>{
+    console.log(req.body)
+}) 
 
 module.exports = router;

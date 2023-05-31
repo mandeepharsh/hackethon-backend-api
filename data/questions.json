@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "Write a program to print \"Hello, World!\"",
+      "solution": "console.log(\"Hello, World!\");",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Write a function to calculate the sum of two numbers",
+      "solution": "const sum = (a, b) => a + b;",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Write a function to check if a number is even",
+      "solution": "const isEven = (num) => num % 2 === 0;",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Write a function to check if a string is empty",
+      "solution": "const isEmpty = (str) => str.length === 0;",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "Write a function to find the length of a string",
+      "solution": "const getLength = (str) => str.length;",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "Write a function to concatenate two strings",
+      "solution": "const concatenateStrings = (str1, str2) => str1 + str2;",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "Write a function to convert a string to uppercase",
+      "solution": "const toUpperCase = (str) => str.toUpperCase();",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "Write a function to check if a number is positive",
+      "solution": "const isPositive = (num) => num > 0;",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "Write a function to check if a number is negative",
+      "solution": "const isNegative = (num) => num < 0;",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "Write a function to find the square of a number",
+      "solution": "const square = (num) => num * num;",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "question": "Write a function to reverse a string",
+      "solution": "const reverseString = (str) => str.split('').reverse().join('');",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "Write a function to check if a number is prime",
+      "solution": "const isPrime = (num) => {\n  if (num <= 1) {\n    return false;\n  }\n  for (let i = 2; i <= Math.sqrt(num); i++) {\n    if (num % i === 0) {\n      return false;\n    }\n  }\n  return true;\n};",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "Write a function to find the maximum number in an array",
+      "solution": "const findMax = (arr) => Math.max(...arr);",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "question": "Write a function to count the number of vowels in a string",
+      "solution": "const countVowels = (str) => str.match(/[aeiou]/gi)?.length || 0;",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "question": "Write a function to calculate the factorial of a number",
+      "solution": "const factorial = (num) => {\n  if (num === 0) {\n    return 1;\n  }\n  return num * factorial(num - 1);\n};",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "Write a function to check if two strings are anagrams",
+      "solution": "const areAnagrams = (str1, str2) => {\n  const sortedStr1 = str1.toLowerCase().split('').sort().join('');\n  const sortedStr2 = str2.toLowerCase().split('').sort().join('');\n  return sortedStr1 === sortedStr2;\n};",
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "question": "Write a function to remove duplicates from an array",
+      "solution": "const removeDuplicates = (arr) => [...new Set(arr)];",
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "question": "Write a function to find the second largest number in an array",
+      "solution": "const findSecondLargest = (arr) => {\n  const sortedArr = arr.sort((a, b) => b - a);\n  return sortedArr[1];\n};",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "question": "Write a function to check if a string is a palindrome",
+      "solution": "const isPalindrome = (str) => str.toLowerCase() === str.toLowerCase().split('').reverse().join('');",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "question": "Write a function to find the average of an array of numbers",
+      "solution": "const findAverage = (arr) => arr.reduce((sum, num) => sum + num, 0) / arr.length;",
+      "difficulty": "medium"
+    }
+  ]
+  
